@@ -32,30 +32,30 @@ This repository contains a record of my progress on various web or game projects
 
 ### Web
 
-\*Corpus Christi Catholic Church
+#### Corpus Christi Catholic Church
 
-- Developed with HTML, CSS, JavaScript, PHP, and SQL.
+* Developed with HTML, CSS, JavaScript, PHP, and SQL.
 
-\*Our Lady of Lourdes Catholic Church
+#### Our Lady of Lourdes Catholic Church
 
-- Developed with HTML, CSS, and JavaScript.
+* Developed with HTML, CSS, and JavaScript.
 
-\*Our Lady of Confidence Carmelite Monastery
+#### Our Lady of Confidence Carmelite Monastery
 
-- Developed with Wix.
+* Developed with Wix.
 
 ### Game
 
-\*Revenge of the PETSCII Robots
+#### Revenge of the PETSCII Robots
 
-- The official sequel to Attack of the PETSCII Robots (2021) by David Murray (The 8-Bit Guy).
-- Programmed in GameMaker.
-- Only available for modern systems.
-- Closed source.
+* The official sequel to Attack of the PETSCII Robots (2021) by David Murray (The 8-Bit Guy).
+* Programmed in GameMaker.
+* Only available for modern systems.
+* Closed source.
 
-\*WhiteHex Library
+#### WhiteHex Library
 
-- A library used to create retro-style JRPGs.
-- Open source.
-- Started development in GameMaker but is now programmed in JavaScript.
-- Intended to be turned into desktop applications.
+* A library used to create retro-style JRPGs.
+* Open source.
+* Started development in GameMaker but is now programmed in JavaScript.
+* Intended to be turned into desktop applications.
