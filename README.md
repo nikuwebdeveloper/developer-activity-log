@@ -16,6 +16,7 @@ This repository contains a record of my progress on various web or game projects
 | November 2025  | [View log](logs/2025-11.md)             |
 | December 2025  | [View log](logs/2025-12.md)             |
 | January 2026   | [View log](logs/2026-01.md)             |
+| February 2026  | [View log](logs/2026-02.md)             |
 
 ### Web Logs
 
@@ -27,6 +28,7 @@ This repository contains a record of my progress on various web or game projects
 | November 2025  | (Coming Soon)                           |
 | December 2025  | (Coming Soon)                           |
 | January 2026   | (Coming Soon)                           |
+| February 2026   | (Coming Soon)                           |
 
 ## Current Projects
 
