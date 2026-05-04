@@ -18,6 +18,8 @@ This repository contains a record of my progress on various web or game projects
 | January 2026   | [View log](logs/2026-01.md)             |
 | February 2026  | [View log](logs/2026-02.md)             |
 
+NOTE: Game Dev logs after February 2026 will soon be included on https://moptec.net
+
 ### Web Logs
 
 | Month          | Dev Log                                 |
@@ -29,6 +31,8 @@ This repository contains a record of my progress on various web or game projects
 | December 2025  | (Coming Soon)                           |
 | January 2026   | (Coming Soon)                           |
 | February 2026   | (Coming Soon)                           |
+
+NOTE: Web Dev logs will soon be included on https://moptec.net
 
 ## Current Projects
 
